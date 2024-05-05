@@ -1,6 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## DEVELOPED BY: RAMYA P
-## REG NO: 212223230168
+## Date:13-05-2024
+## Name: Ramya P
+## Register number: 212223230168
 ## AIM:
 To Implementation of Classical Planning Algorithm
 ## Algorithm:
